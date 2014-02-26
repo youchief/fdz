@@ -20,6 +20,8 @@
                                 – Expertise judiciaire<br>
                                 – Expertise comptable<br>
                                 – Arbitrage<br>
+                                – Evaluation d’entreprise<br>
+                                – Evaluation des opportunités d’investissement
                         </p>
 
                 </div>
@@ -31,12 +33,17 @@
                 </p>
         </div>
         
-        <div class="row-fluid">
-                <ul class="pager">
-                        <li class="previous">
-                                <a href="/conseil-d-entreprise">&larr; Conseil d'entreprise</a>
-                        </li>
-                     
-                </ul>
-        </div>
+
+
+
+    <div class="row-fluid">
+        <ul class="pager">
+            <li class="previous">
+                <a href="/conseil-d-entreprise">&larr; Conseil d'entreprise</a>
+            </li>
+            <li class="next">
+                <a href="/comptabilite-salaires">Comptabilité et salaires &rarr;</a>
+            </li>
+        </ul>
+    </div>
 </div>

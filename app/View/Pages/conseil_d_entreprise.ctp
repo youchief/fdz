@@ -17,9 +17,10 @@
                         <p class="panel">
                                 – Création, développement et restructuration d’entreprise<br>
                                 – Assistance administrative<br>
-                                – Tenue de la comptabilité et conseil en bouclement des comptes<br>
+                                – Conseil relatif au bouclement des comptes<br>
                                 – Participation aux conseils d’administration et assemblées<br>
-                                – Evaluation d’entreprise
+                                – Conseil en matière de transmission d’entreprise<br>
+                                – Elaboration de Management buy out
                         </p>
                 </div>
         </div>

@@ -1,6 +1,6 @@
 <div class="container">
         <div class="page-header">
-                <h1>Gestion globale de patrimoines familiaux</h1>
+                <h1>Service global pour patrimoines familiaux</h1>
         </div>
         <div class="row-fluid services">
                 <div class="span6">

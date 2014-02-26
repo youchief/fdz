@@ -1,11 +1,3 @@
-<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
-<!--[if lte IE 8]>
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
-<![endif]-->
-
-<script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
-
-
 <div class="container">
         <div class="page-header">
                 <h1>Nous contacter</h1>
@@ -25,7 +17,7 @@
                 </div>
                 <div class="span6">
                         <div class="box3">
-                                <div id="map"></div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2745.6085001772753!2d6.6351268!3d46.5158595!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c2fcb5da5f31f%3A0xbd88a8b8c09aa750!2sAvenue+de+Rosemont+5!5e0!3m2!1sfr!2s!4v1393410350486" width="100%" height="350" frameborder="0" style="border:0"></iframe>
                                 <br>
                                 <i class="icon-map-marker"></i> &nbsp;&nbsp;Adresse: Av. de Rosemont 5, case postale 579, 1001 Lausanne 
                                 <p>
@@ -40,15 +32,3 @@
                 </div>
         </div>
 </div>
-
-
-<script>
-
-        var map = L.map('map').setView([46.5158595, 6.63512679999], 14);
-
-        L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png', {
-                maxZoom: 18,
-        }).addTo(map);
-        var marker = L.marker([46.5158595, 6.63512679999]).addTo(map);
-
-</script>

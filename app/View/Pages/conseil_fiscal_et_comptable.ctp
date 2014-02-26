@@ -7,21 +7,21 @@
                 <div class="span6">
 
                         <p>
-                                Au bénéfice d’une longue pratique, nous proposons nos compétences dans le domaine de la fiscalité. Nous suivons tous les aspects fiscaux des dossiers de nos clients établis en Suisse et conduisons l’ensemble des démarches pour le compte de personnes étrangères, physiques ou morales qui souhaitent installer leur domicile ou leur entreprise en Suisse.
+                            Au bénéfice d’une longue expérience, nous sommes actifs dans le domaine de l’optimisation fiscale des personnes physiques et des personnes morales. Nous apportons un soin particulier à la planification fiscale et successorale, afin de garantir la pérennité du patrimoine de nos clients. Nous négocions des accords avec les autorités fiscales cantonales et fédérales dans le cadre de régimes fiscaux particuliers.
                         </p>
                         <p>
-                                Notre réseau de partenaires nous garantit par ailleurs une collaboration efficace, notamment lors de l’application de conventions fiscales destinées à éviter la double imposition.
+                            Nous élaborons des plans de prévoyance en fonction des besoins de nos clients avec pour objectif de garantir leur niveau de vie au moment de la retraite tout en assurant les risques en cas de décès ou d'invalidité.
                         </p>
                 </div>
                 <div class="span6">
                         <p class="panel">
-                                – Planification fiscale<br>
-                                – Négociation de régimes fiscaux<br>
-                                – Démarches pour impositions à forfait<br>
-                                – Application des conventions internationales<br>
-                                – Déclaration fiscale et contrôle des bordereaux<br>
-                                – Gestion fiscale administrative<br>
-
+                                – Planification fiscale globale<br>
+                                – Planification du transfert de patrimoine et de la succession<br>
+                                – Négociation de régimes fiscaux particuliers<br>
+                                – Conseil en matière d'imposition à la dépense<br>
+                                – Etablissement de déclarations d'impôt<br>
+                                – Assistance dans le cadre de toute démarche auprès des autorités fiscales ou judiciaires<br>
+                                – Elaboration de plan de prévoyance personnalisé pour les entreprises
                         </p>
 
 
