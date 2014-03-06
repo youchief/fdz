@@ -62,9 +62,7 @@
                                     } ?>><?php echo $this->Html->link('La Fondation Georges Dreyfus', array('controller' => 'pages', 'action' => 'display', 'georges_dreyfus')) ?></li>
                                 </ul>
                             </li>
-                            <li class="main_nav collaborateur_menu <?php if ($this->here == '/collaborateur') {
-                                echo "selected";
-                            } ?>"><?php echo $this->Html->link('Collaborateurs', array('controller' => 'pages', 'action' => 'display', 'collaborateurs')) ?></li>
+
 
                             <li class="main_nav contact_menu <?php if ($this->here == '/contact') {
                                 echo "selected";

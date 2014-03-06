@@ -27,11 +27,11 @@
                                 Notre groupe compte une quinzaine de collaborateurs qualifiés parmi lesquels des experts diplômés membres de la Chambre suisse des experts comptables, fiduciaires et fiscaux. Attentifs à la qualité de nos services, nous cultivons un fort esprit d’équipe grâce à un groupe de taille humaine qui sait s’unir et offrir le meilleur à nos clients.
                         </p>
                         <p>
-                                La dimension de notre structure et la complémentarité de nos compétences permettent de garantir savoir-faire, qualité et continuité. 
+                            La dimension de notre structure et la complémentarité de nos compétences permettent de garantir savoir-faire, qualité et continuité, ainsi que des relations aisées avec une clientèle suisse et internationale.
                         </p>
                        
                         <p>
-                                Nous cherchons en effet avant tout une approche pragmatique orientée vers le résultat et la satisfaction des clients.
+                            C’est pourquoi, nous accordons une importance constante à la formation et nous attachons à assurer la relève grâce à des équipes composées de jeunes collaborateurs talentueux et de professionnels confirmés.
                         </p>
 
                 </div>

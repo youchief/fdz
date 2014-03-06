@@ -37,7 +37,6 @@ Router::connect('/expertise', array('controller' => 'pages', 'action' => 'displa
 Router::connect('/carrieres', array('controller' => 'pages', 'action' => 'display', 'carrieres'));
 Router::connect('/a-propos', array('controller' => 'pages', 'action' => 'display', 'about'));
 Router::connect('/comptabilite-salaires', array('controller' => 'pages', 'action' => 'display', 'comptabilite_salaire'));
-Router::connect('/collaborateurs', array('controller' => 'pages', 'action' => 'display', 'collaborateurs'));
 /**
  * ...and connect the rest of 'Pages' controller's urls.
  */
