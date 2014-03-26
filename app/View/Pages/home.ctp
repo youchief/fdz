@@ -23,88 +23,82 @@
 
         </div>
 </div>
-<div class="row-fluid graysection">
-        <div class="span3">
-                <div class="grey-box-icon">
-                        <div class="icon-box-top grey-box-icon-pos">
+<div class="row-fluid graysection" style="border-botom:0px;">
+        <div class="span12 offset1">
+                <div class="row-fluid">
+                        <div class="span2">
+                                <div class="grey-box-icon">
+                                        <div class="icon-box-top grey-box-icon-pos">
 
-                                <a href="/gestion-patrimoines-familiaux">
-                                        <i class="fontawesome-icon medium circle-white center  icon-group"></i>
-                                </a>
+                                                <a href="/gestion-patrimoines-familiaux">
+                                                        <i class="fontawesome-icon medium circle-white center  icon-group"></i>
+                                                </a>
+                                        </div>
+                                        <!--icon box top -->
+                                        <h5>Service global pour patrimoines familiaux</h5>
+                                </div>
+                                <!--grey box -->
                         </div>
-                        <!--icon box top -->
-                        <h4>Gestion globale de patrimoines familiaux</h4>
-                        <p>
-                                Nous proposons aux familles détentrices d’un patrimoine un service personnalisé dans les domaines administratif, fiscal et successoral. 
-                        </p>
-                        <p>
-                                <?php echo $this->Html->link('En savoir plus  →', array('controller' => 'pages', 'action' => 'display', 'gestion_patrimoines_familiaux')) ?>
-                        </p>
-                </div>
-                <!--grey box -->
-        </div>
-        <!--/span3-->
-        <div class="span3">
-                <div class="grey-box-icon">
-                        <div class="icon-box-top grey-box-icon-pos">
+                        <!--/span3-->
+                        <div class="span2">
+                                <div class="grey-box-icon">
+                                        <div class="icon-box-top grey-box-icon-pos">
 
-                                <a href="/conseil-fiscal-et-prevoyance">
-                                        <i class="fontawesome-icon medium circle-white center icon-pencil"></i>
-                                </a>
+                                                <a href="/conseil-fiscal-et-prevoyance">
+                                                        <i class="fontawesome-icon medium circle-white center icon-pencil"></i>
+                                                </a>
+                                        </div>
+                                        <!--icon box top -->
+                                        <h5>Conseil fiscal et<br/>de prévoyance</h5>
+
+                                       
+                                </div>
+                                <!--grey box -->
                         </div>
-                        <!--icon box top -->
-                        <h4>Conseil fiscal et de prévoyance</h4>
-                        <p>
-                                Nous négocions et suivons tous les aspects fiscaux des personnes physiques et morales établies en Suisse ou désireuses de s’y installer. Notre réseau de partenaires...
-                        </p>
-                        <p>
-                                <?php echo $this->Html->link('En savoir plus  →', '/conseil-fiscal-et-prevoyance') ?>
+                        <!--/span3-->
+                        <div class="span2">
+                                <div class="grey-box-icon">
+                                        <div class="icon-box-top grey-box-icon-pos">
+                                                <a href="/conseil-d-entreprise">
+                                                        <i class="fontawesome-icon medium circle-white center icon-sitemap"></i>
+                                                </a>
+                                        </div>
+                                        <!--icon box top -->
+                                        <h5>Conseil <br>d’entreprise</h5>
 
-
-                        </p>
-                </div>
-                <!--grey box -->
-        </div>
-        <!--/span3-->
-        <div class="span3">
-                <div class="grey-box-icon">
-                        <div class="icon-box-top grey-box-icon-pos">
-                                <a href="/conseil-d-entreprise">
-                                        <i class="fontawesome-icon medium circle-white center icon-sitemap"></i>
-                                </a>
+                                       
+                                </div>
                         </div>
-                        <!--icon box top -->
-                        <h4>Conseil <br>d’entreprise</h4>
-                        <p>
-                                Nous conseillons les entreprises dans leur développement stratégique et les assistons dans les processus de transmission, de fusions et d’acquisitions.
-                        </p>
-                        <p>
-                                <?php echo $this->Html->link('En savoir plus  →', array('controller' => 'pages', 'action' => 'display', 'conseil_d_entreprise')) ?>
+                        <div class="span2">
+                                <div class="grey-box-icon">
+                                        <div class="icon-box-top grey-box-icon-pos">
+                                                <a href="/comptabilite-salaires">
+                                                        <i class="fontawesome-icon medium circle-white center icon-book "></i>
+                                                </a>
+                                        </div>
+                                        <!--icon box top -->
+                                        <h5>Comptabilité et <br>salaires</h5>
 
-                        </p>
-                </div>
-                <!--grey box -->
-        </div>
-        <div class="span3">
-                <div class="grey-box-icon">
-                        <div class="icon-box-top grey-box-icon-pos">
-                                <a href="/expertise">
-                                        <i class="fontawesome-icon medium circle-white center icon-legal"></i>
-                                </a>
+                                      
+                                </div>
+                                <!--grey box -->
                         </div>
-                        <!--icon box top -->
-                        <h4>Expertise et <br>évaluation</h4>
-                        <p>
-                                Les responsables de notre société sont régulièrement chargés de missions d’expertises judiciaires. Ils sont appelés à siéger dans diverses commissions...
+                        <div class="span2">
+                                <div class="grey-box-icon">
+                                        <div class="icon-box-top grey-box-icon-pos">
+                                                <a href="/expertise">
+                                                        <i class="fontawesome-icon medium circle-white center icon-legal"></i>
+                                                </a>
+                                        </div>
+                                        <!--icon box top -->
+                                        <h5>Expertise et <br>évaluation</h5>
+                                </div>
+                                <!--grey box -->
+                        </div>
 
-                        </p>
-                        <p>
-                                <?php echo $this->Html->link('En savoir plus  →', array('controller' => 'pages', 'action' => 'display', 'expertise')) ?>
-
-                        </p>
                 </div>
-                <!--grey box -->
         </div>
+
 </div>
 
 <script type="text/javascript">
